@@ -1,0 +1,12 @@
+*.bak
+*.log
+*.out
+*.aux
+*.bbl
+*.blg
+*.pag
+*.toc
+*.pdf
+/.aspell*
+/*.synctex.gz
+
