@@ -1,0 +1,16 @@
+Binarization
+[1]
+Improving Document Binarization via Adversarial Noise-Texture Augmentation
+https://github.com/ankanbhunia/AdverseBiNet
+
+Segmentation
+[1]
+https://pythonrepo.com/repo/githubharald-WordSegmentation-python-computer-vision
+https://github.com/githubharald/WordDetectorNN
+
+
+
+
+
+https://github.com/ZumingHuang/awesome-ocr-resources
+
